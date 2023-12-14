@@ -1,7 +1,7 @@
 package com.example.demo.Factory;
 
 /**
- * 车的抽象类 测试1
+ * 车的抽象类
  */
 public class AuDi extends Car {
 
